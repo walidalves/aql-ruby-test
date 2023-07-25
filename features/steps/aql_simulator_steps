@@ -1,0 +1,11 @@
+Given('we are on the AQL web site') do
+  pending # Write code here that turns the phrase above into concrete actions
+end
+
+When('we complete all fields of AQL Sampling Simulator') do
+  pending # Write code here that turns the phrase above into concrete actions
+end
+
+Then('behave show all value points') do
+  pending # Write code here that turns the phrase above into concrete actions
+end
